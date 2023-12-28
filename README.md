@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blazetornado2014
 - 👀 I’m interested in Full-Stack Development
-- 🌱 I’m currently learning LUA in C++
+- 🌱 I’m currently learning LUA embedded in C++
 - 💞️ I’m looking to collaborate on Game Dev projects or Full-Stack projects
 - 📫 How to reach me - Follow the links on my profile! I am always active on LinkedIn 
 
