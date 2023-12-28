@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @blazetornado2014
+- 👋 Hi, I’m Vishesh Jain, a recent graduate from Arizona State University
 - 👀 I’m interested in Full-Stack Development
 - 🌱 I’m currently learning LUA embedded in C++
 - 💞️ I’m looking to collaborate on Game Dev projects or Full-Stack projects
