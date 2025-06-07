@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vishesh Jain, a recent graduate from Arizona State University
+- 👋 Hi, I’m Vishesh Jain, a Software Engineering graduate from Arizona State University
 - 👀 I’m interested in Full-Stack Development and Game Development
 - 🌱 I’m currently creating projects for fun! These are projects I pursue as a hobby.
 - 💞️ I’m looking to collaborate on Game Dev projects or Full-Stack projects
